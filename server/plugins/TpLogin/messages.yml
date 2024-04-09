@@ -1,0 +1,33 @@
+Prefix: '&7[&cTpLogin&7]&7'
+No-Permission: '%prefix% &cYou do not have permission to do that.'
+In-Game-Only: '%prefix% &cIn-Game command only!'
+Invalid-Sub-Command: '%prefix% &cInvalid Sub Command, use /tplogin help'
+Reloaded-Configs: '%prefix% &aConfigs reloaded.'
+Set-Default-Location: '%prefix% &aYou have set the default location.'
+Set-Named-Location: '%prefix% &aYou have set a named location.'
+Location-Not-Exists: '%prefix% &aThat location does not exist.'
+Commands:
+  Spawn:
+    Teleport:
+      Default: '%prefix% &aTeleported to spawn.'
+      Named: '%prefix% &aTeleported to spawn location %name%.'
+    Cooldown: '%prefix% &aPlease wait &e%time% &abefore using this command again.'
+    Delay:
+      Execute: '%prefix% &aYou are going to be teleported in &e%time% seconds&a. Do
+        not move.'
+      Cancelled: '%prefix% &cTeleport cancelled.'
+      Blocked-Command: '%prefix% &cCan''t use that command while teleporting!'
+    Other:
+      Execute: '%prefix% &cTeleported %username% to spawn.'
+      Not-Online: '%prefix% &cThat player is not online.'
+    All: '%prefix% &cTeleport all players to spawn.'
+    Staff: '%prefix% &c%staff% has teleported you to spawn.'
+  Back:
+    Teleport:
+      Default: '%prefix% &aTeleported back to your last location.'
+    Cooldown: '%prefix% &aPlease wait &e%time% &abefore using this command again.'
+    Delay:
+      Execute: '%prefix% &aYou are going to be teleported in &e%time% seconds&a. Do
+        not move.'
+      Cancelled: '%prefix% &cTeleport cancelled.'
+      Blocked-Command: '%prefix% &cCan''t use that command while teleporting!'

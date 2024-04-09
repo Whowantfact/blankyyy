@@ -4,7 +4,7 @@ godmode: false
 muted: false
 jailed: false
 ip-address: 0:0:0:0:0:0:0:1
-afk: false
+afk: true
 socialspy: false
 npc: false
 powertoolsenabled: true
@@ -16,24 +16,24 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1712633270639
-  login: 1712633285774
+  logout: 1712669128516
+  login: 1712667074051
 money: '0'
 last-account-name: whowantfact
 lastlocation:
-  world: be1fb5ef-5204-489c-afd0-25d08b9d37d7
-  world-name: Survival
-  x: 22.5
-  y: 162.0
-  z: -25.5
-  yaw: 339.4500732421875
-  pitch: 8.249992370605469
+  world: cf3e218a-afb5-4183-aaa4-3e63c9dc7205
+  world-name: ASkyBlock
+  x: 8.74782254092204
+  y: 70.0
+  z: -10.905217428600164
+  yaw: 173.8500213623047
+  pitch: 24.599994659423828
 logoutlocation:
-  world: be1fb5ef-5204-489c-afd0-25d08b9d37d7
-  world-name: Survival
-  x: 25.10652789346228
-  y: 162.0
-  z: -28.109735373915687
-  yaw: 32.850067138671875
-  pitch: 1.0499919652938843
+  world: cf3e218a-afb5-4183-aaa4-3e63c9dc7205
+  world-name: ASkyBlock
+  x: 1.7323565721532679
+  y: 70.0
+  z: -6.655103221616944
+  yaw: -73.3505859375
+  pitch: 30.29999542236328
 nickname: Hitler

@@ -1,0 +1,37 @@
+Use-Bypass-Permission: false
+Quit-Timer-Bypass:
+  Enabled: false
+  Time-In-Seconds: 10
+Disable-Default-Join-Leave-Messages: true
+First-Join-Location:
+  World-Name: world
+  Location: default
+Hooks:
+  AuthMe:
+    Hold-Join-Event: true
+Teleport:
+  Join:
+    Mode: DEFINED
+    World-Name: world
+    Location: default
+    Check-Different-Spawn-World: true
+  Death:
+    Mode: DEFINED
+    World-Name: world
+    Location: default
+    Check-Different-Spawn-World: true
+Commands:
+  Spawn:
+    Delay:
+      Time-In-Seconds: 3
+      Blocked-Commands:
+      - tpaccept
+    Cooldown: 10
+  Back:
+    Delay:
+      Time-In-Seconds: 3
+      Blocked-Commands:
+      - tpaccept
+    Cooldown: 10
+Metrics:
+  Enabled: true

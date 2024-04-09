@@ -82,11 +82,11 @@ worlds:
     keepSpawnInMemory: 'true'
     spawnLocation:
       ==: MVSpawnLocation
-      x: 185.469415917713
+      x: 185.53227696050106
       y: 144.0
-      z: -185.03488397402782
-      pitch: -0.15000807
-      yaw: -180.00006
+      z: -184.5957107785985
+      pitch: -0.4500081
+      yaw: 3.2418512E-14
     autoLoad: 'true'
     bedRespawn: 'true'
     worldBlacklist: []
@@ -146,7 +146,7 @@ worlds:
   ASkyBlock:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: ASkyBlock
     color: WHITE
     style: NORMAL
     pvp: 'true'
