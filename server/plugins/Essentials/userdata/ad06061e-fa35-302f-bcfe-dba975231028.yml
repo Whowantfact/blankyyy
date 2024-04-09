@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712633250908
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712633270639
+  login: 1712633285774
+money: '0'
+last-account-name: whowantfact
+lastlocation:
+  world: be1fb5ef-5204-489c-afd0-25d08b9d37d7
+  world-name: Survival
+  x: 22.5
+  y: 162.0
+  z: -25.5
+  yaw: 339.4500732421875
+  pitch: 8.249992370605469
+logoutlocation:
+  world: be1fb5ef-5204-489c-afd0-25d08b9d37d7
+  world-name: Survival
+  x: 25.10652789346228
+  y: 162.0
+  z: -28.109735373915687
+  yaw: 32.850067138671875
+  pitch: 1.0499919652938843
+nickname: Hitler

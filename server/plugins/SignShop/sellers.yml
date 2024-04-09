@@ -1,1 +1,17 @@
-sellers: {}
+sellers:
+  24/162/-32/Survival:
+    owner: whowantfact
+    activatables: []
+    containables:
+    - 24/162/-33/Survival
+    shopworld: Survival
+    sign: 24/162/-32/Survival
+    items:
+    - 1&301&0&0&&&1
+    - 1&300&0&0&&&1
+    - 1&299&0&0&&&1
+    - 1&298&0&0&&&1
+    - 1&274&0&0&&&2
+    - 1&275&0&0&&&2
+    - 1&273&0&0&&&2
+    - 1&291&0&0&&&2

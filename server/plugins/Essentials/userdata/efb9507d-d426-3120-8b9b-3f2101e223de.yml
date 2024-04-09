@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712618618878
+  login: 1712618321177
+money: '0'
+last-account-name: TOST
+logoutlocation:
+  world: 783a7a76-c37b-480a-8a70-f639ef3012e3
+  world-name: world
+  x: 117.33166177352123
+  y: 63.0
+  z: -148.0104574970863
+  yaw: -33.600067138671875
+  pitch: -31.650009155273438
