@@ -35,9 +35,21 @@ world-settings:
       village: true
       flat-bedrock: false
     allow-block-location-tab-completion: true
-    disable-teleportation-suffocation-check: false
-    optimize-explosions: false
     player-blocking-damage-multiplier: 0.5
+    optimize-explosions: false
+    mob-spawner-tick-rate: 1
+    cache-chunk-maps: false
+    tnt-explosion-volume: 4.0
+    squid-spawn-height:
+      minimum: 45.0
+      maximum: 63.0
+    max-growth-height:
+      cactus: 3
+      reeds: 3
+    remove-unloaded:
+      enderpearls: true
+      tnt-entities: true
+      falling-blocks: true
     game-mechanics:
       boats-drop-boats: false
       disable-player-crits: false
@@ -49,15 +61,13 @@ world-settings:
       tnt-entities: false
       falling-blocks: false
     remove-invalid-mob-spawner-tile-entities: true
-    mob-spawner-tick-rate: 1
-    cache-chunk-maps: false
-    tnt-explosion-volume: 4.0
-    squid-spawn-height:
-      minimum: 45.0
-      maximum: 63.0
-    max-growth-height:
-      cactus: 3
-      reeds: 3
+    disable-teleportation-suffocation-check: false
+    fast-drain:
+      lava: false
+      water: false
+    lava-flow-speed:
+      normal: 30
+      nether: 10
     fishing-time-range:
       MinimumTicks: 100
       MaximumTicks: 900
@@ -68,16 +78,6 @@ world-settings:
       soft: 32
       hard: 128
     falling-block-height-nerf: 0
-    remove-unloaded:
-      enderpearls: true
-      tnt-entities: true
-      falling-blocks: true
-    fast-drain:
-      lava: false
-      water: false
-    lava-flow-speed:
-      normal: 30
-      nether: 10
     disable-explosion-knockback: false
     water-over-lava-flow-speed: 5
     fix-cannons: false
@@ -85,8 +85,8 @@ world-settings:
     use-hopper-check: false
     all-chunks-are-slime-chunks: false
     allow-undead-horse-leashing: false
-    keep-spawn-loaded: true
     container-update-tick-rate: 1
+    keep-spawn-loaded: true
     falling-blocks-collide-with-signs: false
     disable-mood-sounds: false
     use-async-lighting: false
