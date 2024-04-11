@@ -1,0 +1,219 @@
+worlds:
+  world:
+    Different-Spawn-World:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+    Location:
+      default:
+        X: 185.0
+        Y: 144.0
+        Z: -186.0
+        Yaw: 0.0
+        Pitch: 0.0
+    MOTD:
+    - '&aWelcome back %player_name% this motd supports placeholders from placeholderapi!'
+    Join-Message:
+    - ''
+    - '&a%player_name% joined :)'
+    - ''
+    Quit-Message:
+    - ''
+    - '&a%player_name% quit :('
+    - ''
+    Global-Commands:
+    - lobby
+    - mainspawn
+    Join-Commands:
+    - 0:CONSOLE:say hello %player_name%
+    - 5:PLAYER:eat
+    Quit-Commands:
+    - 0:CONSOLE:say goodbye %player_name% :( you will not be missed.
+    Void-Teleport:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+      Y-Integer: -64
+  world_nether:
+    Different-Spawn-World:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+    Location:
+      default:
+        X: 1.0
+        Y: 6.0
+        Z: 0.0
+        Yaw: 0.0
+        Pitch: 0.0
+    MOTD: []
+    Join-Message: []
+    Quit-Message: []
+    Global-Commands: []
+    Join-Commands: []
+    Quit-Commands: []
+    Void-Teleport:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+      Y-Integer: -64
+  world_the_end:
+    Different-Spawn-World:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+    Location:
+      default:
+        X: 0.0
+        Y: 61.0
+        Z: 0.0
+        Yaw: 0.0
+        Pitch: 0.0
+    MOTD: []
+    Join-Message: []
+    Quit-Message: []
+    Global-Commands: []
+    Join-Commands: []
+    Quit-Commands: []
+    Void-Teleport:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+      Y-Integer: -64
+  ASkyBlock:
+    Different-Spawn-World:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+    Location:
+      default:
+        X: 0.0
+        Y: 0.0
+        Z: 0.0
+        Yaw: 0.0
+        Pitch: 0.0
+    MOTD: []
+    Join-Message: []
+    Quit-Message: []
+    Global-Commands: []
+    Join-Commands: []
+    Quit-Commands: []
+    Void-Teleport:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+      Y-Integer: -64
+  ASkyBlock_nether:
+    Different-Spawn-World:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+    Location:
+      default:
+        X: 0.0
+        Y: 0.0
+        Z: 0.0
+        Yaw: 0.0
+        Pitch: 0.0
+    MOTD: []
+    Join-Message: []
+    Quit-Message: []
+    Global-Commands: []
+    Join-Commands: []
+    Quit-Commands: []
+    Void-Teleport:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+      Y-Integer: -64
+  Spleef:
+    Different-Spawn-World:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+    Location:
+      default:
+        X: -18.0
+        Y: 76.0
+        Z: -92.0
+        Yaw: 0.0
+        Pitch: 0.0
+    MOTD: []
+    Join-Message: []
+    Quit-Message: []
+    Global-Commands: []
+    Join-Commands: []
+    Quit-Commands: []
+    Void-Teleport:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+      Y-Integer: -64
+  PVP:
+    Different-Spawn-World:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+    Location:
+      default:
+        X: 45.0
+        Y: 19.0
+        Z: -53.0
+        Yaw: 0.0
+        Pitch: 0.0
+    MOTD: []
+    Join-Message: []
+    Quit-Message: []
+    Global-Commands: []
+    Join-Commands: []
+    Quit-Commands: []
+    Void-Teleport:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+      Y-Integer: -64
+  Survival:
+    Different-Spawn-World:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+    Location:
+      default:
+        X: 24.0
+        Y: 163.0
+        Z: -22.0
+        Yaw: 0.0
+        Pitch: 0.0
+    MOTD: []
+    Join-Message: []
+    Quit-Message: []
+    Global-Commands: []
+    Join-Commands: []
+    Quit-Commands: []
+    Void-Teleport:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+      Y-Integer: -64
+  Spawn:
+    Different-Spawn-World:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+    Location:
+      default:
+        X: 0.0
+        Y: 78.0
+        Z: 0.0
+        Yaw: 0.0
+        Pitch: 0.0
+    MOTD: []
+    Join-Message: []
+    Quit-Message: []
+    Global-Commands: []
+    Join-Commands: []
+    Quit-Commands: []
+    Void-Teleport:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
